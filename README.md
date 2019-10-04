@@ -1,5 +1,5 @@
 # JLCPCB-Basic-Parts
-Scrape Basic Parts List from JLBPCB
+Scrape Basic Parts List from JLCPCB.COM
 
 Symple python program to get a CSV list of components labeled as "Basic" for PCB assembly.
 
